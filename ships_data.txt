@@ -1,0 +1,6 @@
+name,yearLaunched,country,numGuns,gunSize,displacement
+Ship8,2016,Canada,13,57,5700
+Ship9,2006,Australia,11,52,5200
+Ship10,2014,Italy,16,62,6200
+Ship11,2007,Spain,10,48,4900
+Ship12,2009,South Korea,12,54,5400
